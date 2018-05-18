@@ -19,6 +19,7 @@ class Palette extends Component {
                         href={url}
                         target="_blank"
                         style={{ fontWeight: "bold" }}
+                        rel="noopener noreferrer"
                     >
                         {title}
                     </a>

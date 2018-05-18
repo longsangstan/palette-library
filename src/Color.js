@@ -21,7 +21,7 @@ class Color extends Component {
 
         return (
             <Wrapper style={{ backgroundColor: hex }}>
-                <p style={{ color: "#ffffff" }}>{hex}</p>
+                <p style={{ color: "#ffffff" }}>{hex.toUpperCase()}</p>
             </Wrapper>
         );
     }

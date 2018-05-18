@@ -12,7 +12,7 @@ const data = [
   {
     title: "Twitter",
     url: "https://twitter.com/",
-    colors: ["#4ab3f4", "#e8f5fd", "#e6ecf0"]
+    colors: ["#4ab3f4", "#E8F5FD", "#657786"]
   },
   {
     title: "Spotify",
@@ -65,7 +65,7 @@ const data = [
     colors: ["#24292e", "#28a745", "#0366d6"]
   },
   {
-    title: "Stackoverflow",
+    title: "Stack Overflow",
     url: "https://stackoverflow.com/",
     colors: ["#F48024", "#848d95", "#0095ff"]
   },
@@ -73,6 +73,26 @@ const data = [
     title: "Pornhub",
     url: "https://www.pornhub.com/",
     colors: ["#000000", "#151515", "#ff9900"]
+  },
+  {
+    title: "Reddit",
+    url: "https://www.reddit.com/",
+    colors: ["#cee3f8", "#ff4500", "#888888"]
+  },
+  {
+    title: "Pinterest",
+    url: "https://www.pinterest.com/",
+    colors: ["#BD081C", "#efefef", "#555555"]
+  },
+  {
+    title: "TechCrunch",
+    url: "https://techcrunch.com/",
+    colors: ["#00a562", "#f1f1f1", "#777777"]
+  },
+  {
+    title: "Engadget",
+    url: "https://www.engadget.com/",
+    colors: ["#2b2d32", "#414347", "#9a58b5"]
   }
 ];
 
